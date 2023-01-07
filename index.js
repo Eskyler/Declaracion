@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que eras una pinche naca, traidora uwu lml')
+    alert('Sabia que dirias que si, pinshe perra hermosa')
 });
 
 const noBtn = document.querySelector('#noBtn');
